@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning React / React Native
+- 👯 I’m looking to collaborate on PHP / Laravel / WordPress
+- 📫 How to reach me: On twitter @abr4xas
