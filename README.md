@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React / React Native
 - 👯 I’m looking to collaborate on PHP / Laravel / WordPress
 - 📫 How to reach me: On twitter @abr4xas
+
+![Github Stats for Angel Cruz](https://github-readme-stats.vercel.app/api?username=abr4xas&show_icons=true&hide_border=true&count_private=true)
