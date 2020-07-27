@@ -14,11 +14,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 - 🌱 I’m currently learning React / React Native
 - 👯 I’m looking to collaborate on PHP / Laravel / WordPress
 - 📫 How to reach me: On twitter @abr4xas
+-->
+
+→ npx angelcruzdev
+npx: installed 9 in 3.416s
+
+👋 Hi! I'm Angel Cruz (@abr4xas)
+
+Backend Developer. I know how to work with php, I'm a big fan of Laravel & WordPress. 
+Also, I have a experience with HTML5/CSS3 and Javascript. 
+Right now I'm in love with ReactJS ❤︎
+
+     Twitter:  https://twitter.com/abr4xas
+      GitHub:  https://github.com/abr4xas
+    LinkedIn:  https://linkedin.com/in/ancrz
+         Web:  https://angelcruz.me
+
+        Card:  npx angelcruzdev
+
+
 
 ![Github Stats for Angel Cruz](https://github-readme-stats.vercel.app/api?username=abr4xas&show_icons=true&hide_border=true&count_private=true)
