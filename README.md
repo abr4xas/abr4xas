@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: On twitter @abr4xas
 -->
 
+```bash
 → npx angelcruzdev
 npx: installed 9 in 3.416s
 
@@ -34,7 +35,6 @@ Right now I'm in love with ReactJS ❤︎
          Web:  https://angelcruz.me
 
         Card:  npx angelcruzdev
-
-
+```
 
 ![Github Stats for Angel Cruz](https://github-readme-stats.vercel.app/api?username=abr4xas&show_icons=true&hide_border=true&count_private=true)
