@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=abr4xas)
+![](https://komarev.com/ghpvc/?username=abr4xas&style=flat-square)
 
 <!--
 **abr4xas/abr4xas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +39,5 @@ Right now I'm in love with ReactJS ❤︎
 ```
 
 ![Github Stats for Angel Cruz](https://github-readme-stats.vercel.app/api?username=abr4xas&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abr4xas&layout=compact&hide_border=true)
