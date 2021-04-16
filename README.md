@@ -41,3 +41,5 @@ Right now I'm in love with ReactJS ❤︎
 ![Github Stats for Angel Cruz](https://github-readme-stats.vercel.app/api?username=abr4xas&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abr4xas&layout=compact&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abr4xas&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
