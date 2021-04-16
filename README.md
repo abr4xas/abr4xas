@@ -42,4 +42,4 @@ Right now I'm in love with ReactJS ❤︎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abr4xas&layout=compact&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abr4xas&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abr4xas&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
