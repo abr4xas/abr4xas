@@ -20,6 +20,28 @@ Here are some ideas to get you started:
 
 -->
 
-```
-PHP Parse error: syntax error, unexpected '<', expecting end of file
+```dart
+main() {
+  Map<String, dynamic> info = {
+    'name': 'Angel Cruz',
+    'web': 'https://angelcruz.dev',
+    'twitter': '@abr4xas',
+    'linkedin': 'https://www.linkedin.com/in/angelcruzdev/',
+    'code': {
+      'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailwindCSS'],
+      'backend': ['PHP', 'Laravel', 'WordPress'],
+      'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+      'devops': ['Docker', 'GNU/Linux'],
+      'tools': [
+        'GIT',
+        'GitHub',
+        'GitLab',
+      ],
+      'learning': ['DART', 'FLUTTER', 'UNITY']
+    },
+  };
+
+  print(info);
+}
+
 ```
