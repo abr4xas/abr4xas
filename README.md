@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ```dart
-main() {
+void main() {
   Map<String, dynamic> info = {
     'name': 'Angel Cruz',
     'web': 'https://angelcruz.dev',
